@@ -1,4 +1,10 @@
 """
+Autor: Johanny Alexix sevilla Ortega
+Fecha: 25/10/2023
+GitHub General: https://github.com/lonelyday01
+Link del Repo: https://github.com/lonelyday01/UCAM_Python_Bootcam
+"""
+"""
 Crear un programa que en base a 2 números de entrada, coordenadas,
 identifique en cuál de los 4 cuadrantes se encuentra el punto.
 El programa debe verificar que ninguna coordenada sea 0.
