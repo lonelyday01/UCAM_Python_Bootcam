@@ -47,3 +47,33 @@ Este programa solicita dos números de entrada que representan coordenadas X e Y
 ### Repositorio en GitHub
 - [GitHub General](https://github.com/lonelyday01)
 - [Repositorio del Programa](https://github.com/lonelyday01/UCAM_Python_Bootcamp)
+
+## Programa 4: Maquina de galton
+
+### Descripción
+Este programa realiza una grafica de los resultados de la maquina de galton, que tambien a esta grafica se le puede conocer como "normal" o "camapana de Gauss"
+
+### Autor
+- Johanny Alexix Sevilla Ortega
+
+### Fecha
+- 23/11/2023
+
+### Repositorio en GitHub
+- [GitHub General](https://github.com/lonelyday01)
+- [Repositorio del Programa](https://github.com/lonelyday01/UCAM_Python_Bootcamp)
+
+## Programa 5: Pokedex
+
+### Descripción
+Este programa hace uso de una API para que python la consuma y obtenga los datos de un pokemon en especifico, ademas de generar un archivo "pokedex.json" con los datos de todos los pokemon atrapados y a su vez, crea una carpeta llamada "Pokedex" donde viene los datos de cada pokemon separados por cada archivo "json" ejemplo: "ditto.json", "kakuna.json", etc.
+
+### Autor
+- Johanny Alexix Sevilla Ortega
+
+### Fecha
+- 27/12/2023
+
+### Repositorio en GitHub
+- [GitHub General](https://github.com/lonelyday01)
+- [Repositorio del Programa](https://github.com/lonelyday01/UCAM_Python_Bootcamp)
